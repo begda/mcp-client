@@ -1,0 +1,22 @@
+数组= [
+  {
+    function: {
+      name: 'open-fengji/45c70acc-0f14-4d70-ba41-5439efbea3dc',
+      arguments:  { '风机编号': 3 }
+    }
+  },
+  {
+    function: {
+      name: 'open-fengji-zidonghua/98bc5721-39c5-4f0c-be93-9147b47cfa67',
+      arguments:  { '风机编号': 4 }
+    }
+  },
+  {
+    function: {
+      name: 'yuefen/45c70acc-0f14-4d70-ba41-5439efbea3dc',
+      arguments:  { '风机编号': 7 }
+    }
+  }
+]
+
+用Promise 运行上面的数组,上一个有结果的时候才会运行下一个,知道完成
