@@ -19,7 +19,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git@github.com/begda/mcp_cli.git"
+    "url": "git@github.com/begda/mcp-client.git"
   },
   "homepage": "https://blog.tianliaohui.com",
   "publishConfig": {
